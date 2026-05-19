@@ -1,0 +1,20 @@
+name,tier,group,dominance
+Rahul Sharma,brahmin_dominant,General,dominant
+Amit Mishra,brahmin_dominant,General,dominant
+Vikas Singh,rajput_dominant,General,dominant
+Suresh Gupta,vaishya_intermediate,General,dominant
+Ankit Yadav,obc_dominant,OBC,less_dominant
+Rohit Kurmi,obc_intermediate,OBC,less_dominant
+Deepak Kushwaha,obc_intermediate,OBC,less_dominant
+Manoj Kumhar,obc_lower,OBC,less_dominant
+Sunil Nai,obc_lower,OBC,less_dominant
+Arun Jatav,sc_marginalised,SC,less_dominant
+Rajesh Paswan,sc_marginalised,SC,less_dominant
+Vinod Ravidas,sc_marginalised,SC,less_dominant
+Manoj Valmiki,sc_highly_marginalised,SC,less_dominant
+Deepak Musahar,sc_highly_marginalised,SC,less_dominant
+Birsa Munda,st_indigenous,ST,less_dominant
+Ramesh Oraon,st_indigenous,ST,less_dominant
+Sukhram Gond,st_large_group,ST,less_dominant
+Laxman Bhil,st_large_group,ST,less_dominant
+Mangal Soren,st_indigenous,ST,less_dominant
