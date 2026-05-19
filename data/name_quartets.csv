@@ -1,0 +1,11 @@
+pair_id,name_1,tier_1,group_1,dominance_1,name_2,tier_2,group_2,dominance_2,name_3,tier_3,group_3,dominance_3,name_4,tier_4,group_4,dominance_4
+Q01,Rahul Sharma,brahmin_dominant,General,dominant,Amit Mishra,brahmin_dominant,General,dominant,Manoj Valmiki,sc_highly_marginalised,SC,less_dominant,Arun Jatav,sc_marginalised,SC,less_dominant
+Q02,Vikas Singh,rajput_dominant,General,dominant,Suresh Gupta,vaishya_intermediate,General,dominant,Rajesh Paswan,sc_marginalised,SC,less_dominant,Vinod Ravidas,sc_marginalised,SC,less_dominant
+Q03,Rahul Sharma,brahmin_dominant,General,dominant,Vikas Singh,rajput_dominant,General,dominant,Ankit Yadav,obc_dominant,OBC,less_dominant,Rohit Kurmi,obc_intermediate,OBC,less_dominant
+Q04,Amit Mishra,brahmin_dominant,General,dominant,Suresh Gupta,vaishya_intermediate,General,dominant,Deepak Kushwaha,obc_intermediate,OBC,less_dominant,Manoj Kumhar,obc_lower,OBC,less_dominant
+Q05,Rahul Sharma,brahmin_dominant,General,dominant,Amit Mishra,brahmin_dominant,General,dominant,Sunil Nai,obc_lower,OBC,less_dominant,Manoj Kumhar,obc_lower,OBC,less_dominant
+Q06,Vikas Singh,rajput_dominant,General,dominant,Suresh Gupta,vaishya_intermediate,General,dominant,Deepak Musahar,sc_highly_marginalised,SC,less_dominant,Manoj Valmiki,sc_highly_marginalised,SC,less_dominant
+Q07,Rahul Sharma,brahmin_dominant,General,dominant,Suresh Gupta,vaishya_intermediate,General,dominant,Birsa Munda,st_indigenous,ST,less_dominant,Ramesh Oraon,st_indigenous,ST,less_dominant
+Q08,Amit Mishra,brahmin_dominant,General,dominant,Vikas Singh,rajput_dominant,General,dominant,Sukhram Gond,st_large_group,ST,less_dominant,Laxman Bhil,st_large_group,ST,less_dominant
+Q09,Rahul Sharma,brahmin_dominant,General,dominant,Amit Mishra,brahmin_dominant,General,dominant,Mangal Soren,st_indigenous,ST,less_dominant,Vinod Ravidas,sc_marginalised,SC,less_dominant
+Q10,Vikas Singh,rajput_dominant,General,dominant,Suresh Gupta,vaishya_intermediate,General,dominant,Arun Jatav,sc_marginalised,SC,less_dominant,Birsa Munda,st_indigenous,ST,less_dominant
