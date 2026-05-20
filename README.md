@@ -199,7 +199,7 @@ It does not claim:
 | `names.csv` | Twenty caste-coded names with jati, varna, region, stigma intensity |
 | `comparison_names.csv` | Matched pairs designed to isolate within- and between-stratum contrasts |
 | `comparison_guidance.csv` | Notes on what each comparison type tests |
-| `image_prompts.csv` | Text-to-image scenario templates |
+| `t2i_caste_audit_prompts.csv` | Text-to-image scenario templates |
 | `results_claude_clean.csv` | Experiment 1 — 50 Claude Sonnet 4.5 responses, parsed |
 | `results_gemini_2_5_clean.csv` | Experiment 1 — 50 Gemini 2.5 Flash responses, parsed |
 | `results_groq_clean.csv` | Experiment 1 — 50 Llama 3.3 70B responses, parsed |
