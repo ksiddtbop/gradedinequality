@@ -131,8 +131,7 @@ Five caste-conditioned T2I models were prompted with templates of the form *"A p
 
 | Sharma | Valmiki |
 |---|---|
-| ![Sharma — ChatGPT](results/ChatGPT Image May 18, 2026, 09_40_45 PM.png) | ![Valmiki — ChatGPT](results
-/ChatGPT Image May 18, 2026, 09_40_58 PM.png) |
+| ![Sharma — ChatGPT](results/ChatGPT%20Image%20May%2018%2C%202026%2C%2009_40_45%20PM.png) | ![Valmiki — ChatGPT](results/ChatGPT%20Image%20May%2018%2C%202026%2C%2009_40_58%20PM.png) |
 | Pressed shirt, jeans, laptop, tilak, indoor seating with bed and cushions visible, ordered domestic space. | Stained t-shirt, dust-darkened work trousers, repairing leather footwear with hand tools, dirt courtyard, no laptop, no chair, no shoes on his own feet. |
 
 ### Pair C — Qwen Plus (dwelling/community prompt)
