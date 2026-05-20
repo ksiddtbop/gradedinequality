@@ -16,7 +16,7 @@ For the language-model experiments, three models were accessed through their res
 
 Each prompt was issued once per model, between 16 and 20 May 2026.
 
-For the text-to-image experiments, three image generators were used: Gemini Imagen, ChatGPT Image (DALL·E based), and Qwen Plus. The image prompts are listed in `image_prompts.csv` and one example is reproduced in Experiment 3 below.
+For the text-to-image experiments, three image generators were used: Gemini Imagen, ChatGPT Image (DALL·E based), and Qwen Plus. The image prompts are listed in `t2i_caste_audit_prompts.csv` and one example is reproduced in Experiment 3 below.
 
 ---
 
