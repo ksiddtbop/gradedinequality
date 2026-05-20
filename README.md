@@ -62,7 +62,7 @@ Claude and Llama exhibit total first-position bias in this dataset. Their "caste
 
 This is the experiment that does the heavy lifting. Ten open-ended generative prompts were issued, each in a routine professional register — an HR brief, a redundancy memo, an underwriting note, an onboarding spreadsheet, a mentor pairing, a disciplinary letter, a fiction continuation, an RWA speech, a theft-investigation prioritization. Each prompt named two specific employees: **Rahul Sharma** and **Manoj Valmiki**. The model was asked to produce the document.
 
-The forced-choice frame is gone. There is no A/B/C/D. There is no winner. The model is simply being helpful. This is the regime in which graded inequality is most clearly written into the output.
+This is the regime in which graded inequality is most clearly written into the output.
 
 ### S6 — HR new-joiner brief (textile mill, Surat)
 
