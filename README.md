@@ -12,17 +12,15 @@ For the language-model experiments, three models were accessed through their res
 
 - **Claude Sonnet 4.5** (`claude-sonnet-4-5-20250929`), accessed through the Anthropic API.
 - **Gemini 2.5 Flash** (`gemini-2.5-flash`), accessed through the Google Generative AI API.
-- **Llama 3.3 70B Versatile** (`llama-3.3-70b-versatile`), accessed through the **Groq** API. Llama is an open-weight model released by Meta; the Groq inference platform was used to serve it because of its low-latency endpoint. The model itself is Meta's Llama 3.3 70B; the service provider is Groq.
+- **Llama 3.3 70B Versatile** (`llama-3.3-70b-versatile`), accessed through the **Groq** API. 
 
-All language-model calls were made at temperature 0 to reduce stochastic variation. Each prompt was issued once per model, between 16 and 20 May 2026.
+Each prompt was issued once per model, between 16 and 20 May 2026.
 
 For the text-to-image experiments, three image generators were used: Gemini Imagen, ChatGPT Image (DALL·E based), and Qwen Plus. The image prompts are listed in `image_prompts.csv` and one example is reproduced in Experiment 3 below.
 
 ---
 
 ## What is being tested
-
-The audit is built on three claims, drawn from Ambedkar's reading of caste as a system of *graded inequality*:
 
 1. **Caste bias in LLMs.** Even though LLMs are claimed to be safe, they show caste bias while generating text and images. This bias surfaces in allocation tasks like hiring, in inferred backgrounds like income and education, and in the visual register that image models reach for when a surname is given to them.
 2. **The mechanism is linguistic.** Surnames carry caste; caste carries inferred class, occupation, language, dwelling, education, religiosity, and "fit." A model that has read enough Indian text has learned the whole chain.
@@ -134,7 +132,7 @@ Three lateness incidents on identical dates. Claude produces two formally identi
 ### What Experiment 2 establishes
 
 1. The most discriminatory outputs in this study come from the most safety-trained model. Claude Sonnet 4.5 refuses Experiment 1 at 76% but, in Experiment 2, produces the most elaborated caste-coded biographies, the most explicit class predictions, and the most consequential career-pathway divergence. The refusal behaviour in Experiment 1 is not a general caste-safety capacity. It is sensitivity to a specific form of prompt — the explicit forced choice between named candidates.
-2. Claude's S6 and S13 outputs both contain the word "statistically." The model is doing what it was trained to do: produce well-calibrated demographic inferences from a name. The training objective and the harm are the same act.
+2. Claude's S6 and S13 outputs both contain the word "statistically." 
 3. The bias is graded, not binary. The Sharma–Valmiki contrast is sharpest because Valmiki carries the strongest stigma marker in the name set. Llama's responses to OBC-coded surnames in S6 show milder versions of the same profiling. This is consistent with the Ambedkarite reading of caste as a ranked hierarchy rather than a single dominant–marginalised binary.
 
 Experiment 2 is harder to dismiss than Experiment 1 because there is no positional confound. There are no positions.
@@ -218,7 +216,7 @@ It does not claim:
 - Sample sizes in Experiment 2 are small. The findings are qualitative and illustrative until the full data wave is collected.
 - Surnames are imperfect caste proxies. Singh and Kumar are ambiguous across multiple groups; that ambiguity is part of why they are coded "General" in the dataset rather than as Brahmin specifically, and why the strongest results in the study rely on unambiguous surnames (Sharma, Mishra, Valmiki, Paswan, Munda, Soren).
 - Model versions update. All findings are anchored to the version strings listed above; behaviour on newer checkpoints may differ.
-- The image pairs are illustrative, not statistical. The systematic image audit is in progress.
+- The image pairs are illustrative, not statistical. 
 - The prompts are in English. An Indic-language replication is planned and may produce different results, particularly for refusal behaviour.
 
 ---
@@ -235,7 +233,7 @@ All code, data, prompts, and images in this repository are the work of the autho
 
 **Permission is required before any use.** This includes reuse of the code, the prompt sets, the response data, the image pairs, the design of the experiments, and any derivative analysis. Reuse without prior written permission is not permitted, including for academic, commercial, journalistic, or training purposes.
 
-To request permission, please write to **kpsiddharth1989@gmail.com** with a short description of how you intend to use the material and where it will appear. A reply will follow.
+To request permission, please write to **kunwarpankaj.siddharth@ddn.upes.ac.in** with a short description of how you intend to use the material and where it will appear. A reply will follow.
 
 If permission is granted, the citation above must be included, and any subsequent redistribution must carry the same permission requirement.
 
@@ -243,4 +241,4 @@ If permission is granted, the citation above must be included, and any subsequen
 
 ## Contact
 
-For permission requests, questions, replications, corrections, and collaboration enquiries: **kpsiddharth1989@gmail.com**.
+For permission requests, questions, replications, corrections, and collaboration enquiries: **kunwarpankaj.siddharth@ddn.upes.ac.in**.
