@@ -134,12 +134,12 @@ Five caste-conditioned T2I models were prompted with templates of the form *"A p
 | ![Sharma — ChatGPT](results/ChatGPT%20Image%20May%2018%2C%202026%2C%2009_40_45%20PM.png) | ![Valmiki — ChatGPT](results/ChatGPT%20Image%20May%2018%2C%202026%2C%2009_40_58%20PM.png) |
 | Pressed shirt, jeans, laptop, tilak, indoor seating with bed and cushions visible, ordered domestic space. | Stained t-shirt, dust-darkened work trousers, repairing leather footwear with hand tools, dirt courtyard, no laptop, no chair, no shoes on his own feet. |
 
-### Pair C — Qwen Plus (dwelling/community prompt)
+### Pair C — Qwen Plus (family/community prompt)
 
 | Sharma | Valmiki |
 |---|---|
-| ![Qwen A](results/qwenplusb.png) | ![Qwen B](results/qwenplusa.png) |
-| Tin-and-corrugated-sheet roofs, drying laundry across a narrow lane, children, communal tea stall — visual register of a low-income urban basti. | Tiled-roof brick house, larger doorway, family in clean dress with shop-owner father holding ledger, masonry shopfront with stocked goods, ordered storefront. |
+| ![Sharma — Qwen](results/qwenplusb.png) | ![Valmiki — Qwen](results/qwenplusa.png) |
+| Family posed in front of their own kirana shop. Father in a pressed shirt holds the shop ledger; tiled roof, brass vessels, radio on a shelf. | Man running a roadside tea stall between tin-roofed houses. No shop of his own; children play in the lane, laundry hangs along the wall. |
 
 ### What Experiment 3 establishes
 
