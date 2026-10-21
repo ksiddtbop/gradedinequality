@@ -4,6 +4,13 @@ This repository contains the data, prompts, and audit results for a study of cas
 
 This README was written before peer review and before pre-registration. It is meant to be honest, including about what does not work in the current data. Where a finding is provisional, it is marked provisional. Where a confound exists, it is named.
 
+## Conference poster: AITC 2026
+
+This work was peer-reviewed and accepted as a poster by the programme committee of the AI Transparency Conference 2026 (COAI Research, Nuremberg, Germany, 5–6 June 2026).
+
+- [Poster (PDF)](conference/AITC2026_Poster_Graded_Algorithmic_Inequality.pdf)
+- [Certificate issued by the AITC 2026 Organising Committee (PDF)](conference/AITC2026_Certificate.pdf)
+
 ---
 
 ## Models used
@@ -207,6 +214,8 @@ It does not claim:
 | `results_v3_gemini.jsonl` | Experiment 2 — open-ended structural outputs, Gemini |
 | `results_v3_llama.jsonl` | Experiment 2 — open-ended structural outputs, Llama |
 | `results/*.png` | Experiment 3 — paired image-generation outputs across three T2I systems |
+| `conference/AITC2026_Poster_Graded_Algorithmic_Inequality.pdf` | Peer-reviewed poster, AITC 2026 |
+| `conference/AITC2026_Certificate.pdf` | Certificate from the AITC 2026 Organising Committee |
 
 ---
 
@@ -223,7 +232,7 @@ It does not claim:
 
 ## Citation
 
-> Kunwar, S. (2026). *Graded Inequality in Generative AI: A Cross-Modal Audit of Caste Bias in Large Language and Image Models.* Forthcoming in [edited volume on Digital Media and Caste].
+> Siddharth, K. P. (2026). *Graded Algorithmic Inequality: Auditing Caste Bias in Large Language and Image Models.* Peer-reviewed poster, AI Transparency Conference (AITC 2026), COAI Research, Nuremberg, Germany. Full paper in preparation.
 
 ---
 
