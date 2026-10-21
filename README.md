@@ -8,9 +8,8 @@ This README was written before peer review and before pre-registration. It is me
 
 This work was peer-reviewed and accepted as a poster by the programme committee of the AI Transparency Conference 2026 (COAI Research, Nuremberg, Germany, 5–6 June 2026).
 
-- [Poster (PDF)](conference/AITC2026_Poster_Graded_Algorithmic_Inequality.pdf)
-- [Certificate issued by the AITC 2026 Organising Committee (PDF)](conference/AITC2026_Certificate.pdf)
-
+-- [Poster (PDF)](Graded_Algorithmic_Inequality_Poster.pdf)
+- [Certificate issued by the AITC 2026 Organising Committee (PDF)](AITC2026_Certificate.pdf)
 ---
 
 ## Models used
